@@ -1,6 +1,8 @@
-# techapp
+# Tech Ecommerce App
 
 A new Flutter application.
+
+SvinkiTech - http://www.svinkitech.co.in
 
 ## Getting Started
 
